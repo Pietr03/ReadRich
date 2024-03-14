@@ -1,0 +1,18 @@
+:root {
+  /* Colori principali */
+  --bg-color: #f2e8c0; /* Background principale */
+  --text-color: #4d3715; /* Testo */
+  --link-color: #4763ff; /* Link */
+  /*--button-bg-color: #f9dc5c44;  Bottoni principali */
+  --button-bg-color: #f9dc5c00;
+
+  /* Colori secondari */
+  --header-footer-color: #f9dc5c44; /* Header e footer */
+  --highlight-color: #f6e9a0; /* Elementi di evidenziazione */
+  --error-color: #efc7a5; /* Messaggi di errore */
+
+  /* Altri colori */
+  --accent-color-1: #91b6e3; /* Colore accentuato 1 */
+  --accent-color-2: #a8d3af; /* Colore accentuato 2 */
+  --accent-color-3: #e186c2; /* Colore accentuato 3 */
+}
